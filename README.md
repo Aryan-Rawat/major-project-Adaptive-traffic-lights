@@ -28,12 +28,12 @@ Once the live feed is fed to the deep neural network it returns the location of 
 ### YOLOv5 results
 
 <img
-	src=./1.png
+	src=./east.jpg
 	align="center"
 />
 
 <img
-	src=./2.png
+	src=./east_bbox.png
 	align="center"
 />
 
