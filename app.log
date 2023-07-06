@@ -1,0 +1,56 @@
+2023-06-14 10:56:48 [   DEBUG] [pyplot.py:339]: Loaded backend agg version v2.2.
+2023-06-14 10:56:51 [    INFO] [YOLOv5.py:131]: Output images would be dumped at path: C:\ Users\ARYAN RAWAT\ minor_project\ YOLOv5_results
+2023-06-14 10:56:51 [    INFO] [YOLOv5.py:135]: Starting inference on video: C:\Users\ARYAN RAWAT\minor_project\Test\test1\east_video.mp4
+2023-06-14 10:56:51 [    INFO] [YOLOv5.py:135]: Starting inference on video: C:\Users\ARYAN RAWAT\minor_project\Test\test1\north_video.mp4
+2023-06-14 10:56:51 [    INFO] [YOLOv5.py:135]: Starting inference on video: C:\Users\ARYAN RAWAT\minor_project\Test\test1\south_video.mp4
+2023-06-14 10:56:51 [    INFO] [YOLOv5.py:135]: Starting inference on video: C:\Users\ARYAN RAWAT\minor_project\Test\test1\west_video.mp4
+2023-06-14 11:00:10 [   DEBUG] [YOLOv5.py:125]: Processed 100 of video C:\Users\ARYAN RAWAT\minor_project\Test\test1\south_video.mp4
+2023-06-14 11:00:10 [    INFO] [YOLOv5.py:126]: Mean FPS: 0.537355906571404
+2023-06-14 11:00:10 [    INFO] [YOLOv5.py:127]: Median FPS: 0.6096400005319792
+2023-06-14 11:00:17 [   DEBUG] [YOLOv5.py:125]: Processed 100 of video C:\Users\ARYAN RAWAT\minor_project\Test\test1\west_video.mp4
+2023-06-14 11:00:17 [    INFO] [YOLOv5.py:126]: Mean FPS: 0.5552220008369875
+2023-06-14 11:00:17 [    INFO] [YOLOv5.py:127]: Median FPS: 0.6249673960975746
+2023-06-14 11:00:23 [   DEBUG] [YOLOv5.py:125]: Processed 100 of video C:\Users\ARYAN RAWAT\minor_project\Test\test1\east_video.mp4
+2023-06-14 11:00:23 [    INFO] [YOLOv5.py:126]: Mean FPS: 0.537970963978981
+2023-06-14 11:00:23 [    INFO] [YOLOv5.py:127]: Median FPS: 0.6095304528785292
+2023-06-14 11:00:23 [   DEBUG] [YOLOv5.py:125]: Processed 100 of video C:\Users\ARYAN RAWAT\minor_project\Test\test1\north_video.mp4
+2023-06-14 11:00:23 [    INFO] [YOLOv5.py:126]: Mean FPS: 0.5403484646892857
+2023-06-14 11:00:23 [    INFO] [YOLOv5.py:127]: Median FPS: 0.6122608091635692
+2023-06-14 11:06:04 [ WARNING] [YOLOv5.py:97]: No frame could be retrieved from provided video C:\Users\ARYAN RAWAT\minor_project\Test\test1\west_video.mp4
+ Exiting
+2023-06-14 11:06:05 [   DEBUG] [YOLOv5.py:125]: Processed 200 of video C:\Users\ARYAN RAWAT\minor_project\Test\test1\south_video.mp4
+2023-06-14 11:06:05 [    INFO] [YOLOv5.py:126]: Mean FPS: 0.3793618473580747
+2023-06-14 11:06:05 [    INFO] [YOLOv5.py:127]: Median FPS: 0.5823630242666302
+2023-06-14 11:06:26 [   DEBUG] [YOLOv5.py:125]: Processed 200 of video C:\Users\ARYAN RAWAT\minor_project\Test\test1\east_video.mp4
+2023-06-14 11:06:26 [    INFO] [YOLOv5.py:126]: Mean FPS: 0.38293293257361144
+2023-06-14 11:06:26 [    INFO] [YOLOv5.py:127]: Median FPS: 0.583342414076754
+2023-06-14 11:06:28 [   DEBUG] [YOLOv5.py:125]: Processed 200 of video C:\Users\ARYAN RAWAT\minor_project\Test\test1\north_video.mp4
+2023-06-14 11:06:28 [    INFO] [YOLOv5.py:126]: Mean FPS: 0.38660003400266785
+2023-06-14 11:06:28 [    INFO] [YOLOv5.py:127]: Median FPS: 0.5861050899411869
+2023-06-14 11:07:07 [ WARNING] [YOLOv5.py:97]: No frame could be retrieved from provided video C:\Users\ARYAN RAWAT\minor_project\Test\test1\east_video.mp4
+ Exiting
+2023-06-14 11:08:18 [   DEBUG] [YOLOv5.py:125]: Processed 300 of video C:\Users\ARYAN RAWAT\minor_project\Test\test1\south_video.mp4
+2023-06-14 11:08:18 [    INFO] [YOLOv5.py:126]: Mean FPS: 0.4625184154687695
+2023-06-14 11:08:18 [    INFO] [YOLOv5.py:127]: Median FPS: 0.6217298549817201
+2023-06-14 11:08:48 [   DEBUG] [YOLOv5.py:125]: Processed 300 of video C:\Users\ARYAN RAWAT\minor_project\Test\test1\north_video.mp4
+2023-06-14 11:08:48 [    INFO] [YOLOv5.py:126]: Mean FPS: 0.4734067967022236
+2023-06-14 11:08:48 [    INFO] [YOLOv5.py:127]: Median FPS: 0.6221160617716178
+2023-06-14 11:10:17 [   DEBUG] [YOLOv5.py:125]: Processed 400 of video C:\Users\ARYAN RAWAT\minor_project\Test\test1\south_video.mp4
+2023-06-14 11:10:17 [    INFO] [YOLOv5.py:126]: Mean FPS: 0.5297012038180863
+2023-06-14 11:10:17 [    INFO] [YOLOv5.py:127]: Median FPS: 0.6571585608361885
+2023-06-14 11:11:00 [   DEBUG] [YOLOv5.py:125]: Processed 400 of video C:\Users\ARYAN RAWAT\minor_project\Test\test1\north_video.mp4
+2023-06-14 11:11:00 [    INFO] [YOLOv5.py:126]: Mean FPS: 0.5387329947568873
+2023-06-14 11:11:00 [    INFO] [YOLOv5.py:127]: Median FPS: 0.6639784927086784
+2023-06-14 11:12:29 [   DEBUG] [YOLOv5.py:125]: Processed 500 of video C:\Users\ARYAN RAWAT\minor_project\Test\test1\south_video.mp4
+2023-06-14 11:12:29 [    INFO] [YOLOv5.py:126]: Mean FPS: 0.5710597313134163
+2023-06-14 11:12:29 [    INFO] [YOLOv5.py:127]: Median FPS: 0.7065418948639441
+2023-06-14 11:12:47 [ WARNING] [YOLOv5.py:97]: No frame could be retrieved from provided video C:\Users\ARYAN RAWAT\minor_project\Test\test1\south_video.mp4
+ Exiting
+2023-06-14 11:13:08 [   DEBUG] [YOLOv5.py:125]: Processed 500 of video C:\Users\ARYAN RAWAT\minor_project\Test\test1\north_video.mp4
+2023-06-14 11:13:08 [    INFO] [YOLOv5.py:126]: Mean FPS: 0.5892467259756958
+2023-06-14 11:13:08 [    INFO] [YOLOv5.py:127]: Median FPS: 0.7587320902955992
+2023-06-14 11:14:33 [   DEBUG] [YOLOv5.py:125]: Processed 600 of video C:\Users\ARYAN RAWAT\minor_project\Test\test1\north_video.mp4
+2023-06-14 11:14:33 [    INFO] [YOLOv5.py:126]: Mean FPS: 0.6545796658639067
+2023-06-14 11:14:33 [    INFO] [YOLOv5.py:127]: Median FPS: 0.8844674812006292
+2023-06-14 11:15:40 [ WARNING] [YOLOv5.py:97]: No frame could be retrieved from provided video C:\Users\ARYAN RAWAT\minor_project\Test\test1\north_video.mp4
+ Exiting
