@@ -33,7 +33,7 @@ Once the live feed is fed to the deep neural network it returns the location of 
 />
 
 <img
-	src=./east_bbox.png
+	src=./east_bbox.jpg
 	align="center"
 />
 
