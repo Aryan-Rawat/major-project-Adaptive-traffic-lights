@@ -3,7 +3,7 @@ Using object detection for Adaptive traffic lights which can detect number of ve
 
 # Repository for Details
 
-## Todo
+## Points to ponder :)
 
 - [x] understand (YOLOv5 algorithm)
 - [X] Use SSD (Single Shot Detection) model for comparision
