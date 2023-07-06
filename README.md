@@ -40,6 +40,6 @@ Once the live feed is fed to the deep neural network it returns the location of 
 ### Work Flow Model
 
 <img
-	src=./model.JPG
+	src=./workflow.JPG
 	align="center"
 />
